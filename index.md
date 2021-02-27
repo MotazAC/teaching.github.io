@@ -18,7 +18,7 @@ ______
 
 These notes are from the first semester of the PhD Micro sequence at Columbia. I created them as the TA for Professor Chiappori (Part 1) and Professor Salanié (Part 2) in Fall 2017.
 
-<ul>
+<ul class="downloads">
 <li><a href="https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/PhD%20Micro%20Notes.pdf">Download <strong>Full Notes</strong></a></li>
 </ul>
 
