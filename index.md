@@ -17,3 +17,5 @@ These notes are from the fall semester of PhD Micro. I created them as the TA fo
 - [2.1 - Intro to GE](https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/2.1%20-%20Intro%20to%20GE.pdf)
 - [2.2 - GE under Uncertainty](https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/2.2%20-%20GE%20under%20Uncertainty.pdf)
 - [2.3 - Market Failures](https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/2.3%20-%20Market%20Failures.pdf)
+
+### Intermediate Micro
