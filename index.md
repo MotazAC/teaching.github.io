@@ -11,18 +11,34 @@ I generally don't correct notes after the semester is over, so you will likely f
 
 Please do not use any of the materials below without attribution.
 
-
+    <style>
+      button {
+        display: inline-block;
+        background-color: #7b38d8;
+        border-radius: 10px;
+        border: 4px double #cccccc;
+        color: #eeeeee;
+        text-align: center;
+        font-size: 28px;
+        padding: 20px;
+        width: 200px;
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 5px;
+      }
+    </style>
+	
 ______
 
 ## PhD Micro I
 
 These notes are from the first semester of the PhD Micro sequence at Columbia. I created them as the TA for Professor Chiappori (Part 1) and Professor Salanié (Part 2) in Fall 2017.
 
-<header>
-<ul>
-<li><a href="https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/PhD%20Micro%20Notes.pdf">Download <strong>Full Notes</strong></a></li>
-</ul>
-</header>
+<button onclick="https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/PhD%20Micro%20Notes.pdf">Download <strong>Full Notes</strong></a></button>
+
 
 #### Part 1: Consumer Theory
 - [1.1 - Intro to Consumer Theory](https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/1.1%20-%20Intro%20to%20Consumer%20Theory.pdf)
